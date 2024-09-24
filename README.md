@@ -1,6 +1,5 @@
 Smart School Management System
 
-![Smart School Management System]
 
 Overview
 Welcome to the **Smart School Management System**! This innovative web application is designed to transform the way educational institutions manage their operations. By incorporating modern technologies, this system simplifies student management,
@@ -14,9 +13,8 @@ Key Features
 - **Admin Dashboard**: An intuitive dashboard that provides a comprehensive overview of school operations.
 - **Data Security**: Robust security measures to safeguard sensitive student information and maintain privacy.
 
-![Admin Dashboard Screenshot]
 
-Technologies Used
+Language Used
 - **Backend**: PHP
 - **Database**: MySQL
 - **Frontend**: HTML, CSS, JavaScript
