@@ -26,3 +26,8 @@ Follow these simple steps to set up the Smart School Management System on your l
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Mumbi-svG/smart-school-management-system.git
+
+
+
+MORE CHANGES COMING SOON AND UPGRADES, TILL ITS SUPERB... FROM ITS GUI TO OPERATIONS. 
+Wont spoil about what i got i=planned rt noow but ull see wen i post the update !!
